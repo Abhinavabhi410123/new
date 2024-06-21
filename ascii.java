@@ -6,5 +6,6 @@ class Letters{
 		System.out.println("It is capital letter");
 		if(b>=97 && b<123)
 		System.out.println("It is small letter");
+		System.out.println("hello how ");
 		}
 		}
